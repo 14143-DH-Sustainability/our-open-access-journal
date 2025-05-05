@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="A simple HTML page with lorem ipsum content.">
+    <link rel="stylesheet" type="text/css" href="./styles.css">
+    <title>Building Digital Projects to Outlive Their Funding by Christian Casey</title>
+</head>
+<body>
+    <div class="page">
+        <div class="section">
+            <h1>(Summary) <a href="https://avarjournal.com/avar/article/view/2835/2059" target="_blank">Building Digital Projects to Outlive Their Funding</a></h1>
+            <div class="author">İmran Gökçe Şahin<br>Freie Universität Berlin</div>
+            
+            <section class="abstract">
+                <h2>Abstract</h2>
+                <p>
+                Sustainability is a well-known issue in the digital humanities, but it is rarely discussed in print. Too many valuable online research tools struggle to secure the funding to remain available indefinitely. This paper examines strategies for ensuring the longevity of online digital resources, using The Zodiac Glossary as a case study. It offers guidance for digital project creators navigating current funding challenges.
+                </p>
+            </section>
+            <footer>
+                <p>Open access under CC BY-NC-ND 4.0 license. &copy; 2025 İmran Şahin.</p>
+            </footer>
+        </div>
+    </div>
+</body>
+</html>
+
+
